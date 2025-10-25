@@ -98,6 +98,8 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
+# Unity VSC
+/.plastic/*
 
 # Bakery compliance
 /[Aa]ssets/Bakery/*
@@ -124,4 +126,4 @@ InitTestScene*.unity*
 !/[Aa]ssets/Bakery/emptyDirection.meta
 
 # Test Builds should not be synced
-/TestBuilds/*
+/[Tt]estBuilds/*
