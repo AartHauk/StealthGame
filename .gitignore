@@ -97,3 +97,33 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity VSC
+/.plastic/*
+
+# Bakery compliance
+/[Aa]ssets/Bakery/*
+/[Aa]ssets/Editor/x64/Bakery/*
+!/[Aa]ssets/Bakery/ftLightmaps.cs
+!/[Aa]ssets/Bakery/ftLightmaps.meta
+!/[Aa]ssets/Bakery/ftLightmapsStorage.cs
+!/[Aa]ssets/Bakery/ftLightmapsStorage.meta
+!/[Aa]ssets/Bakery/ftLocalStorage.cs
+!/[Aa]ssets/Bakery/ftLocalStorage.meta
+!/[Aa]ssets/Bakery/ftGlobalStorage.cs
+!/[Aa]ssets/Bakery/ftGlobalStorage.meta
+!/[Aa]ssets/Bakery/BakeryProjectSettings.cs
+!/[Aa]ssets/Bakery/BakeryProjectSettings.meta
+!/[Aa]ssets/Bakery/ftSettingsAsset.cs
+!/[Aa]ssets/Bakery/ftSettingsAsset.meta
+!/[Aa]ssets/Bakery/BakeryVolume.cs
+!/[Aa]ssets/Bakery/BakeryVolume.meta
+!/[Aa]ssets/Editor/x64/Bakery/scripts/ftModelPostProcessor.cs
+!/[Aa]ssets/Editor/x64/Bakery/scripts/ftModelPostProcessor.meta
+!/[Aa]ssets/Editor/x64/Bakery/scripts/ftSavedPadding2.cs
+!/[Aa]ssets/Editor/x64/Bakery/scripts/ftSavedPadding2.meta
+!/[Aa]ssets/Bakery/emptyDirection.tga
+!/[Aa]ssets/Bakery/emptyDirection.meta
+
+# Test Builds should not be synced
+/[Tt]estBuilds/*
