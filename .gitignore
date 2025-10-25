@@ -122,3 +122,6 @@ InitTestScene*.unity*
 !/[Aa]ssets/Editor/x64/Bakery/scripts/ftSavedPadding2.meta
 !/[Aa]ssets/Bakery/emptyDirection.tga
 !/[Aa]ssets/Bakery/emptyDirection.meta
+
+# Test Builds should not be synced
+/TestBuilds/*
